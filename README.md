@@ -1,2 +1,2 @@
 # notes
-软件安装教程
+Linux安装matlab2018a教程
